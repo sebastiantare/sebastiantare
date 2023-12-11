@@ -1,6 +1,6 @@
 # 🦾 Sebastian Tare
 
-**`Data Scientist`**
+**`Data Science / Engineer`**
 
 I'm a junior data scientist (and full-stack dev) working my way into the data industry, currently as a freelancer, looking for full-time job opportunities!
 
