@@ -2,7 +2,7 @@
 
 **`Data Science / Engineer`**
 
-I'm a junior data scientist (and full-stack dev) working my way into the data industry, currently as a freelancer, looking for full-time job opportunities!
+I'm a junior data scientist (ex full-stack dev) working my way into the data industry, currently as a freelancer, looking for full-time job opportunities!
 
 
 ### Languages and Tools
