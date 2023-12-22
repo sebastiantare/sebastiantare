@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Chilean Fires Analysis](https://github.com/sebastiantare/chileanfires)
 
-- 👨‍💻 All of my projects are available at [sebastiantare.xyz](sebastiantare.xyz)
+- 👨‍💻 All of my projects are available at [sebastiantare.xyz](https://sebastiantare.xyz)
 
 - 💬 Ask me about **Python, Machine Learning**
 
