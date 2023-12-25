@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebastiantare&label=Profile%20views&color=0e75b6&style=flat" alt="sebastiantare" /> </p>
 
-- 🔭 I’m currently working on [Chilean Fires Analysis](https://github.com/sebastiantare/chileanfires)
+- 🔭 I’m currently working on [Chilean Fires Analysis](https://github.com/sebastiantare/chileanfires) 🔥 
 
 <!-- 👨‍💻 All of my projects are available at [sebastiantare.xyz](https://sebastiantare.xyz) -->
 
