@@ -1,8 +1,6 @@
 <h1 align="center">Hi 🫡, I'm Sebastián Tare</h1>
 <h3 align="center">I'm a Software Engineer from Chile which also is experienced with Machine Learning 🦾</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sebastiantare&label=Profile%20views&color=0e75b6&style=flat" alt="sebastiantare" /> </p>
-
 - 🔭 I’m currently working on [Chilean Fires Analysis](https://github.com/sebastiantare/chileanfires) 🔥  you can see version 1 live here: [Chilean Fires Dashboard](https://incendioschile.online)
 
 - 📦 I started in different StartUps because I really enjoy testing new ideas to build products (SaaS, Apps, Extensions, etc).
