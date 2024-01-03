@@ -7,8 +7,6 @@
 
 <!-- 👨‍💻 All of my projects are available at [sebastiantare.xyz](https://sebastiantare.xyz) -->
 
-- 💬 Ask me about **Python, Machine Learning**
-
 - 📫 How to reach me **sebastiantarebustos@gmail.com**
 
 - 📄 Know about my experiences [https://sebastiantare.xyz/resume-en.pdf](https://sebastiantare.xyz/resume-en.pdf)
