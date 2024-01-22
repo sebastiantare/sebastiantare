@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Chilean Fires Analysis](https://github.com/sebastiantare/chileanfires) 🔥  you can see version 1 live here: [Chilean Fires Dashboard](https://incendioschile.online)
 
-- 📦 I started in different StartUps because I really enjoy testing new ideas to build products (SaaS, Apps, Extensions, etc).
+- 📦 I started in different StartUps because I really enjoy making new ideas into products.
 
 <!-- 👨‍💻 All of my projects are available at [sebastiantare.xyz](https://sebastiantare.xyz) -->
 
