@@ -1,15 +1,15 @@
-<h1 align="center">Hi 🫡, I'm Sebastián Tare</h1>
+<h1 align="center">Hi, I'm Sebastián Tare</h1>
 <h3 align="center">I'm a Software Engineer from Chile which also is experienced with Machine Learning 🦾</h3>
 
-- 🔭 I’m currently working on [Chilean Fires Analysis](https://github.com/sebastiantare/chileanfires) 🔥  you can see version 1 live here: [Chilean Fires Dashboard](https://incendioschile.online)
+- I’m currently working on [Chilean Fires Analysis](https://github.com/sebastiantare/chileanfires) 🔥  you can see version 1 live here: [Chilean Fires Dashboard](https://incendioschile.online)
 
-- 📦 I started in different StartUps because I really enjoy making new ideas into products.
+- I started in different StartUps because I really enjoy making new ideas into products.
 
 <!-- 👨‍💻 All of my projects are available at [sebastiantare.xyz](https://sebastiantare.xyz) -->
 
-- 📫 How to reach me **sebastiantarebustos@gmail.com**
+- How to reach me **sebastiantarebustos@gmail.com**
 
-- 📄 Know about my experiences [https://sebastiantare.xyz/resume-en.pdf](https://sebastiantare.xyz/resume-en.pdf)
+- Know about my experiences [https://sebastiantare.xyz/resume-en.pdf](https://sebastiantare.xyz/resume-en.pdf)
 
 - I use NVIM btw.
 
