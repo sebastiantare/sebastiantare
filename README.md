@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sebastián Tare</h1>
-<h3 align="center">I'm a Software Engineer from Chile which also is experienced with Machine Learning 🦾</h3>
+<h3 align="center">I'm a Software Engineer from Chile which also loves Machine Learning/Data 🦾</h3>
 
 - I’m currently working on [Chilean Fires Analysis](https://github.com/sebastiantare/chileanfires) 🔥  you can see a prototype live here: [Chilean Fires Dashboard](https://incendioschile.online)
 
